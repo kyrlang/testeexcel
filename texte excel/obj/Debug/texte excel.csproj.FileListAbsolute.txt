@@ -1,0 +1,13 @@
+C:\Users\kyrla\source\repos\texte excel\texte excel\bin\Debug\texte excel.exe.config
+C:\Users\kyrla\source\repos\texte excel\texte excel\bin\Debug\texte excel.exe
+C:\Users\kyrla\source\repos\texte excel\texte excel\bin\Debug\texte excel.pdb
+C:\Users\kyrla\source\repos\texte excel\texte excel\bin\Debug\NPOI.dll
+C:\Users\kyrla\source\repos\texte excel\texte excel\bin\Debug\Ionic.Zip.dll
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.csprojAssemblyReference.cache
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte_excel.Form1.resources
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte_excel.Properties.Resources.resources
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.csproj.GenerateResource.cache
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.csproj.CoreCompileInputs.cache
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.csproj.CopyComplete
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.exe
+C:\Users\kyrla\source\repos\texte excel\texte excel\obj\Debug\texte excel.pdb
